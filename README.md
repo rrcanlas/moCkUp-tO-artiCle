@@ -2,12 +2,12 @@
 	 README.md
 -->
 
-# **[Mockup to Article](https://rrcanlas.github.io/moCkUp-tO-artiCle/)** #
+# **Mockup to Article** 
 
-* Overview 
+## Overview 
 
-	First exercise as a front-end developer student in [UDACITY](https://www.udacity.com). 
+	First exercise as a front-end developer student in [UDACITY](https://www.udacity.com).  
+	
+       [Preview](https://rrcanlas.github.io/moCkUp-tO-artiCle/)
    
- * Created using HTML from the PDF mockup included.
-
-   
+ * Created using HTML from the PDF mockup included.   
