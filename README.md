@@ -6,8 +6,10 @@
 
 ## Overview 
 
-	First exercise as a front-end developer student in [UDACITY](https://www.udacity.com).  
+   First exercise as a front-end developer student in [UDACITY](https://www.udacity.com).  
 	
-       [Preview](https://rrcanlas.github.io/moCkUp-tO-artiCle/)
+  [Preview](https://rrcanlas.github.io/moCkUp-tO-artiCle/)
    
- * Created using HTML from the PDF mockup included.   
+ * Created using HTML from the PDF mockup included.  
+ 
+ 
